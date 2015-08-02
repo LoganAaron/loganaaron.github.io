@@ -1,13 +1,26 @@
 /**
  * Site header
  */
+ #hero {
+   background: url('../img/header-bg.jpeg') no-repeat center;
+   background-size: cover;
+   width: 100%;
+   height: 300px;
+ }
+
 .site-header {
-    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
     // Positioning context for the mobile navigation icon
     position: relative;
+}
+
+#logo {
+  float: left;
+  width: 52px;
+  height: 52px;
+  margin-top: 2px;
+  margin-right: 1em;
 }
 
 .site-title {
@@ -19,7 +32,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $text-color;
     }
 }
 
@@ -85,7 +98,6 @@
         }
     }
 }
-
 
 
 /**

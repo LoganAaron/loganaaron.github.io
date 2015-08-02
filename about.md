@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Hey there! Im Logan Peterson, a designer who lives to create. I make logos, illustrations, web pages, applications, as well as write songs and produce music.  I live in Omaha, Nebraska where Ive been making art since I was old enough to hold a crayon.  Ive transferred my creative drive into the digital realm; with an iMac, hard work, and a passion for my craft(s).
