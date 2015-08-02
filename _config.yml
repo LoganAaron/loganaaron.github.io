@@ -1,0 +1,29 @@
+# Site settings
+title: Logan Aaron's Blog
+email: loganp82@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My journey in the world of web design & development.
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: loganpeterson82
+github_username:  loganaaron
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      author: Logan Peterson
+      layout: "post"
+      comments: true
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "page"
