@@ -22,7 +22,7 @@ $white : #fff;
 $black : #0b0b0b;
 $grey  : #797e83;
 
-$elm            : #6dbcda;
+$la-blue        : #3399ff;
 $fountain-blue  : #52bab3;
 $emerald        : #5ece7f;
 $sunglo         : #e67478;
@@ -32,7 +32,7 @@ $scooter        : #39add1;
 
 // Color Usage
 
-$color-primary   : $elm;
+$color-primary   : $la-blue;
 $color-secondary : $scooter;
 $color-accent    : $emerald;
 $color-shadow    : rgba($black, .2);
@@ -59,7 +59,7 @@ $color-palettes: (
 // UI Colors
 
 $ui-colors: (
-  default : $elm,
+  default : $la-blue,
   success : $emerald,
   error   : $sunglo,
   warning : $coral,

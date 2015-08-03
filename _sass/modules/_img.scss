@@ -10,6 +10,8 @@
 	@include m(avatar) {
 		display: block;
 		width: 110px;
+		height: 110px;
+		background: url(/img/avatar.jpg) center no-repeat;
 		margin-left: auto;
 		margin-right: auto;
 		border-radius: $br--round;
