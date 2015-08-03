@@ -3,7 +3,7 @@ title: Contact
 permalink: /contact/
 ---
 
-You can email me at [ {{ site.email }} ](mailto:{{ site.email }}).
+You can email me at [ {{ site.email }} ](mailto:{{ site.email }})
 
 Send me a tweet <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>
 
